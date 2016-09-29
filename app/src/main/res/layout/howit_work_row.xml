@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+    <FrameLayout
+        android:id="@+id/NxtPrv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/tutorial"
+        android:alpha="0.2"
+        android:layout_alignParentTop="true">
+
+
+
+    </FrameLayout>
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:id="@+id/backrelative"
+        android:layout_height="fill_parent">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="130dp"
+            android:background="@drawable/icontutorial" />
+
+        <TextView
+            android:id="@+id/txtheader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:textSize="22sp"
+            android:text="Select Language"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/laundryred" />
+
+        <TextView
+            android:id="@+id/txtdesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtheader"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="40dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:textSize="13sp"
+            android:text="One time sign up will be immensely beneficial compared to guest user. We will be providing monthly reports of your activity on 99laundry.com"
+            android:textColor="@color/primary" />
+    </RelativeLayout>
+</RelativeLayout>

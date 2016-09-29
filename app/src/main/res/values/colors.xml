@@ -1,0 +1,124 @@
+
+<resources>
+
+    <color name="colorPrimary">#F50057</color>
+    <color name="colorPrimaryDark">#C51162</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#FF80AB</color>
+
+
+    <color name="appbackcolor">#D5D5D5</color>
+    <color name="appbackcolor1">#E6E6E6</color>
+
+
+
+   <!-- <color name="primary">#607D8B</color>
+    <color name="primaryDark">#455A64</color>-->
+
+   <!-- <color name="primary">#607D8B</color>
+    <color name="primaryDark">#455A64</color>-->
+    <color name="primary">#4F6CA8</color>
+    <color name="primaryDark">#365696</color>
+
+
+    <color name="themprimary">#D33B32</color>
+    <color name="themprimaryDark">#BF4139</color>
+
+
+    <color name="accent">#eeff41</color>
+    <color name="accentLight">#F4FF81</color>
+
+
+    <color name="drawbleselect">#c5cae9</color>
+    <color name="drawertoselect">#ffebee</color>
+
+
+    !-- Incanit  -->
+    <color name="headingColor">#262626</color>
+    <color name="TextColor"> #232323</color>
+    <color name="SubTitleColor">#646464</color>
+
+
+    <color name="header_normal">#ffe74c3c</color>
+    <color name="header_pressed">#ffc0392b</color>
+    <color name="menu_section_header">#FFDDDDDD</color>
+
+
+
+    //Color Swatches provided by http://designmodo.github.io/Flat-UI/
+    <color name="fbutton_color_turquoise">#1abc9c</color>
+    <color name="fbutton_color_green_sea">#16a085</color>
+    <color name="fbutton_color_emerald">#2ecc71</color>
+    <color name="fbutton_color_nephritis">#27ae60</color>
+    <color name="fbutton_color_peter_river">#3498db</color>
+    <color name="fbutton_color_belize_hole">#2980b9</color>
+    <color name="fbutton_color_amethyst">#9b59b6</color>
+    <color name="fbutton_color_wisteria">#8e44ad</color>
+    <color name="fbutton_color_wet_asphalt">#34495e</color>
+    <color name="fbutton_color_midnight_blue">#2c3e50</color>
+    <color name="fbutton_color_sun_flower">#f1c40f</color>
+    <color name="fbutton_color_orange">#f39c12</color>
+    <color name="fbutton_color_carrot">#e67e22</color>
+    <color name="fbutton_color_pumpkin">#d35400</color>
+    <color name="fbutton_color_alizarin">#e74c3c</color>
+    <color name="fbutton_color_pomegranate">#c0392b</color>
+    <color name="fbutton_color_clouds">#ecf0f1</color>
+    <color name="fbutton_color_silver">#bdc3c7</color>
+    <color name="fbutton_color_concrete">#95a5a6</color>
+    <color name="fbutton_color_asbestos">#7f8c8d</color>
+
+    <color name="locationtxtcolor">#CD3C3E</color>
+
+
+
+
+    <color name="PrimarytxtColor">#606060</color>
+    <color name="SecondarytxtColor">#787878</color>
+    <color name="thirdtxtclor">#bdbdbd</color>
+
+    <color name="feed_item_bg">#D33B32</color>
+    <color name="feed_item_border">#bdbdbd</color>
+
+
+    <color name="howitwork1">#99539C</color>
+    <color name="howitwork2">#621D7F</color>
+    <color name="howitwork3">#391B73</color>
+
+    <color name="profiledivider">#424242</color>
+    <color name="greenaccent">#4CAF50</color>
+
+    <color name="drawercolor">#F2F2F2</color>
+<!--388E3C-->
+    <color name="primaryBlack">#000000</color>
+
+    <color name="laundryred">#D95350</color>
+
+
+
+ <color name="green">#009900</color>
+ <color name="blue">#000099</color>
+ <color name="orange">#FF9900</color>
+
+ <color name="shadow">#555555</color>
+ <color name="title">#777777</color>
+
+
+ <color name="ttb_backgroud">#d8d8d8</color>
+ <color name="ttb_darkGray">#404040</color>
+
+ <color name="edittexthint">#fff9f9f9</color>
+
+ <color name="subheader">#3C3C3C</color>
+ <color name="ttb_transparent_gray">#80d8d8d8</color>
+ <color name="ratingcolor">#FFD20A</color>
+    <color name="ttb_deal_green">#017e3f</color>
+
+
+ <!-- green (56, 185, 158)
+  blue (63, 81, 158)
+  red (217, 83, 80)
+  yellow (255, 214, 0)-->
+
+</resources>

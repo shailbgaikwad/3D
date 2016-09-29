@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">3D Viewer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Messages</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>Home</item>
+        <item>3D View</item>
+        <item>Profile</item>
+        <item>Language</item>
+        <item>Tutorial</item>
+        <item>Terms and Condition</item>
+        <item>FAQ</item>
+        <item>Logout</item>
+    </string-array>
+
+
+
+
+
+    <string name="InternetConnection">Please check Internet connection...</string>
+    <string name="servererror">There is error in Network please try later</string>
+
+
+
+
+
+
+
+</resources>
+
+
